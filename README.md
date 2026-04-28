@@ -1,8 +1,16 @@
 # OpenViking Viewer
 
-> OpenViking 向量知识库的可视化管理工具 —— 浏览、搜索、分析你的知识图谱，一切尽在眼前。
+> 🧭 Visualize & Explore your Vector Knowledge Base — Browse, Search, and Map your OpenViking knowledge graph in the browser
 
-![OpenViking](public/viking.svg)
+<p align="center">
+  <img src="public/screenshots/dashboard.png" width="800" alt="Dashboard - 系统概览" />
+  <em>仪表盘 — 一览系统健康度、存储概况与知识库构建状态</em>
+</p>
+
+<p align="center">
+  <img src="public/screenshots/explorer.png" width="800" alt="Explorer - 文件浏览器" />
+  <em>文件浏览器 — 树形浏览知识库目录结构与文件详情</em>
+</p>
 
 ## ✨ 功能特性
 
